@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEADBEEF", "DEADBEEF\DEADBEEF.csproj", "{54BCCA37-0ACA-41B4-9DF7-CC0C088E9B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEADBEEF.Tests", "DEADBEEF.Tests\DEADBEEF.Tests.csproj", "{68F9B1C1-69DA-4394-B391-86F073A5B6B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54BCCA37-0ACA-41B4-9DF7-CC0C088E9B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BCCA37-0ACA-41B4-9DF7-CC0C088E9B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BCCA37-0ACA-41B4-9DF7-CC0C088E9B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BCCA37-0ACA-41B4-9DF7-CC0C088E9B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F9B1C1-69DA-4394-B391-86F073A5B6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F9B1C1-69DA-4394-B391-86F073A5B6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F9B1C1-69DA-4394-B391-86F073A5B6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F9B1C1-69DA-4394-B391-86F073A5B6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9339C943-4436-4FA5-BE17-880726454A31}
+	EndGlobalSection
+EndGlobal
